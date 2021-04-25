@@ -1,0 +1,11 @@
+# editor config:
+.vscode/
+# mainly just logging:
+node_modules/
+# last week's code, not using recursion yet:
+obsolete/
+
+# this is temporary, will add them later after some necessary changes
+computron.js
+package.json
+package-lock.json
