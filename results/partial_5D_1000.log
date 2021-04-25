@@ -17,3 +17,4 @@ $ grep -i solution log_fermat_5.txt
 [2021-04-24T02:41:22.422] [INFO] default - Solution found: 21,129,171,240,300,321
 [2021-04-25T02:42:09.250] [INFO] default - Solution found: 27,106,388,485,604,650
 [2021-04-25T07:30:09.784] [INFO] default - Solution found: 28,172,228,320,400,428
+[2021-04-25T18:51:35.318] [INFO] default - Solution found: 31,105,139,314,416,435
