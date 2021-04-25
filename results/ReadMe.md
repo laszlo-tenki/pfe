@@ -28,4 +28,4 @@ The first N numbers on a line, raised to the power of N will give you the Nth po
 
 ### Other files
 
-Files starting with "partial" contain partial results with calculations currently running. They are edited by hand - for example currently I have a 5D_1000 calculation running, for an estimated time of 140-170 days.
+Files starting with "partial" contain partial results of calculations currently running. They are edited by hand - for example currently I have a 5D_1000 calculation running, for an estimated time of 140-170 days.
