@@ -36,7 +36,7 @@ Here are some data about time required for the calculations:
 | Dimensions | Cube size | Time needed | Platform |
 | ----------- | ----------- | ----------- | ----------- |
 | 3 | 2000<sup>3</sup> | 14 minutes | Core i7 |
-| 4 | 1000<sup>4</sup> | 22 hours | ARM |
+| 4 | 1500<sup>4</sup> | 22 hours | ARM |
 | 5 | 1000<sup>5</sup> | This is currently running, my estimation is about 140-170 days | ARM |
 
 Also, with these numbers and powers I'm already beginning to reach the maximum precision available with built-in data types, so I'll have make changes to the code soon.
