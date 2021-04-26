@@ -1,6 +1,6 @@
 # editor config:
 .vscode/
-# mainly just logging:
+# so far only log4js:
 node_modules/
 # last week's code, not using recursion yet:
 obsolete/
