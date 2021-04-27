@@ -2,7 +2,7 @@
 
 I was told by some nice Reddit poeple that the negative statement doesn't stand. It's called Euler's sum of powers conjecture and it's been disproved. 
 
-95800<sup>4</sup> +	217519<sup>4</sup> + 414560<sup>4</sup> +	422481<sup>4</sup>
+95800<sup>4</sup> +	217519<sup>4</sup> + 414560<sup>4</sup> =	422481<sup>4</sup>
 
 ## Lots of numbers. Why?
 
