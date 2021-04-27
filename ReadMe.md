@@ -1,4 +1,10 @@
-# Lots of numbers. Why?
+## Edit on April 27
+
+I was told by some nice Reddit poeple that the negative statement doesn't stand. It's called Euler's sum of powers conjecture and it's been disproved. 
+
+95800<sup>4</sup> +	217519<sup>4</sup> + 414560<sup>4</sup> +	422481<sup>4</sup>
+
+## Lots of numbers. Why?
 
 In the directory called 'results' you can find lists of numbers. See the ReadMe document there about the naming convention. These lists are collected evidences about my recent finding. It's just a suspicion, nothing more. Also, the lists are evidences to support the suspicion, of course they don't prove anything. 
 
