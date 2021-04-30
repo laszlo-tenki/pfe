@@ -1,0 +1,1 @@
+All log files come here by default. The ones that I want to keep, will be moved moved to `[project_root]/results`.
