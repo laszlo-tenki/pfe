@@ -4,8 +4,9 @@
 node_modules/
 # last week's code, not using recursion yet:
 obsolete/
+# temporary results - results and logs I want to keep will copied over to the results/ folder
+results_temp/*.csv
+results_temp/*.log
 
 # this is temporary, will add them later after some necessary changes
-computron.js
-package.json
-package-lock.json
+task*.js
